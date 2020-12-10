@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.bdf386bf.chunk.js",
-    "main.js.map": "/static/js/main.bdf386bf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.46cc9a21.js",
-    "runtime-main.js.map": "/static/js/runtime-main.46cc9a21.js.map",
-    "static/js/2.33c35699.chunk.js": "/static/js/2.33c35699.chunk.js",
-    "static/js/2.33c35699.chunk.js.map": "/static/js/2.33c35699.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0d7df2c51337301be8cd3bc6babbf83d.js": "/precache-manifest.0d7df2c51337301be8cd3bc6babbf83d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.33c35699.chunk.js.LICENSE.txt": "/static/js/2.33c35699.chunk.js.LICENSE.txt"
+    "main.js": "https://aditya2102.github.io/GIFsearch/static/js/main.bdf386bf.chunk.js",
+    "main.js.map": "https://aditya2102.github.io/GIFsearch/static/js/main.bdf386bf.chunk.js.map",
+    "runtime-main.js": "https://aditya2102.github.io/GIFsearch/static/js/runtime-main.e5ffdbf8.js",
+    "runtime-main.js.map": "https://aditya2102.github.io/GIFsearch/static/js/runtime-main.e5ffdbf8.js.map",
+    "static/js/2.33c35699.chunk.js": "https://aditya2102.github.io/GIFsearch/static/js/2.33c35699.chunk.js",
+    "static/js/2.33c35699.chunk.js.map": "https://aditya2102.github.io/GIFsearch/static/js/2.33c35699.chunk.js.map",
+    "index.html": "https://aditya2102.github.io/GIFsearch/index.html",
+    "precache-manifest.990bc5dababd0e8b9aa2829d232d169a.js": "https://aditya2102.github.io/GIFsearch/precache-manifest.990bc5dababd0e8b9aa2829d232d169a.js",
+    "service-worker.js": "https://aditya2102.github.io/GIFsearch/service-worker.js",
+    "static/js/2.33c35699.chunk.js.LICENSE.txt": "https://aditya2102.github.io/GIFsearch/static/js/2.33c35699.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.46cc9a21.js",
+    "static/js/runtime-main.e5ffdbf8.js",
     "static/js/2.33c35699.chunk.js",
     "static/js/main.bdf386bf.chunk.js"
   ]
